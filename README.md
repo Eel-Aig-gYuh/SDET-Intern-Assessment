@@ -3,7 +3,7 @@
 ## Table of content
 - [Overview](#Overview)
 - [Authorization](#Authorization)
-- [Run Project](#Run)
+- [Run](#Run)
 
 ## Overview
 Write a script in Python or JavaScript that: 
