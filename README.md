@@ -3,7 +3,7 @@
 ## Table of content
 - [Overview](#Overview)
 - [Authorization](#Authorization)
-- [Run_project](#RunProject)
+- [Run Project](#Run)
 
 ## Overview
 Write a script in Python or JavaScript that: 
@@ -15,7 +15,7 @@ Write a script in Python or JavaScript that:
   <img src="https://github.com/Eel-Aig-gYuh/SDET-Intern-Assessment/blob/main/assert/Screenshot%202025-12-17%20103932.png"/>
 </p>
 
-## Run project
+## Run
 Step 1: clone project
 ```bash
 git clone https://github.com/Eel-Aig-gYuh/SDET-Intern-Assessment.git
